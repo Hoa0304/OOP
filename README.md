@@ -4,9 +4,10 @@
 <summary>Tính đóng gói (encapsulation)</summary>
   
 - Dữ liệu và các hành động liên quan tới dữ liệu của class nào thì gói gọn bên trong class đó.
-- - Các thuộc tính của lớp để là ``` private```
-- - Chỉ có thể truy cập trực tiếp tới thuộc tính private từ bên trong class chứa nó
-=> Muốn truy cập đến thuộc tính ``` private ``` của class phải qua các ``` public ``` getter/setter.
+- - Các thuộc tính của lớp để là ``` private ```
+- - Chỉ có thể truy cập trực tiếp tới thuộc tính private từ bên trong class chứa nó.
+    
+- => Muốn truy cập đến thuộc tính ``` private ``` của class phải qua các ``` public ``` getter/setter.
 > Bảo mật và bảo vệ dữ liệu không bị truy cập trái phép.
 </details>
 
