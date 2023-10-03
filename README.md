@@ -1,8 +1,7 @@
 # OOP
 
 <details>
-  
-## <summary>Tính đa hình (Polymorphism)</summary>
+<summary>Tính đa hình (Polymorphism)</summary>
 
 - Là một đối tượng có nhiều vai trò, hình dạng tùy thuộc các ngữ cảnh khác nhau.
 - Biểu hiện : overriding (ghi đè) và overloading (nạp chồng).
