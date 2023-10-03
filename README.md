@@ -12,4 +12,11 @@ _Ghi đè_ : thể hiện tính đa hình tại thời điểm chạy chương t
 
 > Tính đa hình cho phép các đối tượng khác nhau sử dụng chung một giao diện ( interface ).
 
+>> Note : 
+
+```
+nạp chồng : hàm cùng tên / lớp + kiểu dữ liệu và tham số 
+ghi đè : cùng tên , cùng kiểu + khác lớp
+```
+
 </details>
