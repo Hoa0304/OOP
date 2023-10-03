@@ -37,3 +37,20 @@ ghi đè : cùng tên , cùng kiểu + khác lớp
 ```
 
 </details>
+
+Tính trừu tượng (abstract)
+Là tính chất trong đó chỉ tiết lộ những thành phần thiết yếu với người dùng và ẩn giấu đi những thông tin không cần thiết.
+Thể hiện qua abstract class và interface.
+Thường chỉ nêu lên nhiệm vụ nhưng không nói cụ thể cách thức triển khai.
+Sử dụng tính trừu tượng giúp giảm sự phức tạp và ẩn giấu các triển khai quan trọng khỏi thế giới bên ngoài.
+Bạn đã gửi
+Khi nào sử dụng abstract class?
+Khi bạn có một nhóm các lớp liên quan cần share chung 1 đoạn code hay tính năng nào đó. Bạn đưa các thành phần dùng chung vào lớp abstract và các lớp con liên quan sẽ kế thừa lớp cha abstract này.
+Khi bạn mong muốn rằng các lớp kế thừa lớp abstract có chung nhiều trường, phương thức hoặc muốn dùng chung cả các access modifier khác chứ không chỉ là access modifier public .
+Bạn muốn khai báo các trường non-static , non-final. Nhờ đó bạn có thể định nghĩa các phương thức có thể truy cập và sửa đổi trạng thái của từng đối tượng.
+Bạn đã gửi
+Khi nào sử dụng interface?
+Đạt được tính trừu tượng hòan toàn. Tất cả các method được nêu ra trong interface chưa có phần thân triển khai chi tiết và cần được triển khai cụ thể trong các lớp con implements interface đó.
+Muốn đạt được tính đa kế thừa.
+Muốn cho các lớp không liên quan gì đến nhau cũng có thể sử dụng chức năng của interface.
+Muốn chỉ định các hành vi cần thực hiện nhưng không quan tâm các hành vi đó được thực hiện bởi ai, thực hiện như thế nào.
