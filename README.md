@@ -11,11 +11,13 @@
 > Bảo mật và bảo vệ dữ liệu không bị truy cập trái phép.
 </details>
 
-tính kế thừa (inheritance)
-Thừa hưởng các đặc trưng và hành động từ 1 class khác
-Biểu hiện : class con ``` extends ``` lớp cha , lớp A ``` implements``` C
-giúp ta tái sử dụng code đã có nhưng vẫn đảm bảo, duy trì 1 hệ thống phân cấp duy nhất.
-Lớp cha sẽ tổng quát hơn , simple hơn lớp con. Lớp con ( super ) cụ thể và đa dạng hơn lớp cha.
+<details>
+<summary>Tính kế thừa (inheritance)</summary>
+- Thừa hưởng các đặc trưng và hành động từ 1 class khác.
+  
+-  Biểu hiện : class con ``` extends ``` lớp cha , lớp A ``` implements ``` C giúp ta tái sử dụng code đã có nhưng vẫn đảm bảo, duy trì 1 hệ thống phân cấp duy nhất.
+- Lớp cha sẽ tổng quát hơn , simple hơn lớp con. Lớp con ( super ) cụ thể và đa dạng hơn lớp cha.
+</details>
 
 <details>
 <summary>Tính đa hình (Polymorphism)</summary>
