@@ -56,6 +56,7 @@ ghi đè : cùng tên , cùng kiểu + khác lớp
   
 - Khi bạn có một nhóm các lớp liên quan cần share chung 1 đoạn code hay tính năng nào đó. Bạn đưa các thành phần dùng chung vào lớp abstract và các lớp con liên quan sẽ kế thừa lớp cha abstract này.
 - Khi bạn mong muốn rằng các lớp kế thừa lớp abstract có chung nhiều trường, phương thức hoặc muốn dùng chung cả các access modifier khác chứ không chỉ là access modifier ``` public ```.
+  
 __Bạn muốn khai báo các trường non-static , non-final. Nhờ đó bạn có thể định nghĩa các phương thức có thể truy cập và sửa đổi trạng thái của từng đối tượng.__
 
 </details>
