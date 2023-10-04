@@ -13,6 +13,7 @@
 
 <details>
 <summary>Tính kế thừa (inheritance)</summary>
+  
 - Thừa hưởng các đặc trưng và hành động từ 1 class khác.
   
 -  Biểu hiện : class con ``` extends ``` lớp cha , lớp A ``` implements ``` C giúp ta tái sử dụng code đã có nhưng vẫn đảm bảo, duy trì 1 hệ thống phân cấp duy nhất.
