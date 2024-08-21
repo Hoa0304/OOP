@@ -1,5 +1,4 @@
 # OOP 
-
 <details>
 <summary>Tính đóng gói (encapsulation)</summary>
   
