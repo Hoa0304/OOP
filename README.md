@@ -74,7 +74,7 @@ __Bạn muốn khai báo các trường non-static , non-final. Nhờ đó bạn
 </details>
 
 
-
+```
                   +---------------------------+
                   |        Tiêu Chuẩn          |
                   +-----------+---------------+
@@ -89,3 +89,5 @@ __Bạn muốn khai báo các trường non-static , non-final. Nhờ đó bạn
   | Chất |                 | Cải tiến |                 | Quy trình |
   | lượng |                 | quy trình |                 | kỹ thuật |
   +------+                 +----------+                 +----------+
+```
+
